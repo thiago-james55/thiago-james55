@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I work with car engines**
 
 - :musical_note: Music **Rock (Black Sabbath , Metallica  , Pantera)**
-- :video_game: Favorite Games **Super Metroid(SNES) , KOF2002(NeoGeo), Factorio , Shadow of Mordor, Terraria , Bioshock Infinite**
+- :video_game: Favorite Games **Super Metroid(SNES) , KOF2002(NeoGeo) , Factorio , Shadow of Mordor , Terraria , Bioshock Infinite**
 
 
 <h3 align="left">Languages and Tools:</h3>
