@@ -4,13 +4,14 @@
 
 ___________________________________
 
-<p align="left">
+<p align="center">
 Codewars Profile: <a href="https://www.codewars.com/users/thiago_james55/" target="blank">thiago_james55</a>
 </p>
-<p align="left">
+<p align="center">
 Project Euler Friend Key: <a href="https://projecteuler.net/" target="blank">1845053_FrxiJDgDiMueq9fdVqajDiLRihPLCavi</a>
 </p>
 
+___________________________________
 
 - 🔭 I’m currently working on **my knowledge**
 
