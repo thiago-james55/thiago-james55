@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Thiago Gonçalves</h1>
 <h3 align="center">A Curious Student</h3>
-Codewars Profile: <a href="https://www.codewars.com/users/thiago_james55/" target="blank">thiago_james55</a>
-Project Euler Friend Key: <a href="https://projecteuler.net/" target="blank">1845053_FrxiJDgDiMueq9fdVqajDiLRihPLCavi</a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thiago-james55&label=Profile%20views&color=0e75b6&style=flat" alt="thiago-james55" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiago-james55&label=Profile%20views&color=0e75b6&style=flat" alt="thiago-james55" /> </p>
+<p align="left">
+Codewars Profile: <a href="https://www.codewars.com/users/thiago_james55/" target="blank">thiago_james55</a>
+</p>
+<p align="left">
+Project Euler Friend Key: <a href="https://projecteuler.net/" target="blank">1845053_FrxiJDgDiMueq9fdVqajDiLRihPLCavi</a>
+</p>
+
 
 - 🔭 I’m currently working on **my knowledge**
 
