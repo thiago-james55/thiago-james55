@@ -2,6 +2,8 @@
 <h3 align="center">A Curious Student</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thiago-james55&label=Profile%20views&color=0e75b6&style=flat" alt="thiago-james55" /> </p>
 
+___________________________________
+
 <p align="left">
 Codewars Profile: <a href="https://www.codewars.com/users/thiago_james55/" target="blank">thiago_james55</a>
 </p>
@@ -38,8 +40,8 @@ Project Euler Friend Key: <a href="https://projecteuler.net/" target="blank">184
 
 ___________________________________
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-james55&show_icons=true&locale=en&layout=compact" alt="thiago-james55" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-james55&show_icons=true&locale=en&layout=compact" alt="thiago-james55" /></p>
 <br><br> <br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=thiago-james55&show_icons=true&locale=en" alt="thiago-james55" /></p>
+
 
 
