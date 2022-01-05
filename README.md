@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago Gonçalves</h1>
 <h3 align="center">A Curious Student</h3>
+Codewars Profile: <a href="https://www.codewars.com/users/thiago_james55/" target="blank">thiago_james55</a>
+Project Euler Friend Key: <a href="https://projecteuler.net/" target="blank">1845053_FrxiJDgDiMueq9fdVqajDiLRihPLCavi</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiago-james55&label=Profile%20views&color=0e75b6&style=flat" alt="thiago-james55" /> </p>
 
@@ -20,7 +22,7 @@
 - ⚡ Fun fact **I work with car engines**
 
 - :musical_note: Music **Rock (Black Sabbath , Metallica  , Pantera)**
-- :video_game: Favorite Games **Super Metroid(SNES) , KOF2002(NeoGeo) , Factorio , Shadow of Mordor , Terraria , Bioshock Infinite**
+- :video_game: Favorite Games **Super Metroid(SNES) , KOF2002(NeoGeo) , Factorio , Shadow of Mordor , Dark Souls, Terraria , Bioshock Infinite**
 
 
 <h3 align="left">Languages and Tools:</h3>
