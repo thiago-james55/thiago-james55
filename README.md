@@ -4,12 +4,19 @@
 
 ___________________________________
 
-<p align="center">
+<p align="left">
 Codewars Profile: <a href="https://www.codewars.com/users/thiago_james55/" target="blank">thiago_james55</a>
 </p>
-<p align="center">
+
+<p align="left">
+HackerRank Profile: <a href="https://www.hackerrank.com/tsyhwh55" target="blank">tsyhwh55</a>
+</p>
+
+<p align="left">
 Project Euler Friend Key: <a href="https://projecteuler.net/" target="blank">1845053_FrxiJDgDiMueq9fdVqajDiLRihPLCavi</a>
 </p>
+
+
 
 ___________________________________
 
