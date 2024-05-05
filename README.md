@@ -22,11 +22,11 @@
 
 <h2>Foco:</h2>
 
-<img src="https://skills.thijs.gg/icons?i=dotnet,angular,docker,mysql" />
+<img src="https://skillicons.dev/icons?i=dotnet,angular,docker,mysql" />
 
 <h2>Skill Secundárias:</h2>
 
-<img src="https://skills.thijs.gg/icons?i=java,spring,androidstudio,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,spring,androidstudio,ts,js,html,css" />
 
 <h2>Hobbies</h2>
 
