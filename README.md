@@ -19,6 +19,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<h2>Meu Melhor Projeto:</h2>
+<p>
+<a href="https://github.com/thiago-james55/quickrectify" target="blank">QuickRectify</a>
+</p>
 
 <h2>Foco:</h2>
 
@@ -30,7 +34,7 @@
 
 <h2>Hobbies</h2>
 
-<img src="https://skills.thijs.gg/icons?i=unity" />
+<img src="https://skillicons.dev/icons?i=unity" />
 
 <p>
 Codewars Profile: <a href="https://www.codewars.com/users/thiago_james55/" target="blank">thiago_james55</a>
