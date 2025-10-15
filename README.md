@@ -45,6 +45,11 @@
       <td><a href="https://github.com/thiago-james55/javaDuplicateFileFinder" target="_blank" rel="noopener noreferrer">DuplicateFileFinder</a></td>
       <td>Verificador de arquivos duplicados no sistema</td>
     </tr>
+    <tr>
+      <td>4°</td>
+      <td><a href="https://github.com/thiago-james55/jsReflexTraining" target="_blank" rel="noopener noreferrer">jsReflexTraining</a></td>
+      <td>Joguinho HTML/JS com opções para testar os reflexos</td>
+    </tr>
   </tbody>
 </table>
 
